@@ -61,24 +61,6 @@ h2{
 	animation-direction: alternate;
 	animation-fill-mode: backwards;
 }
-h3{
-	width: 16%;
-	font-size: 25px;
-	padding: 15px;
-	font-weight:bold;
-	border-radius: 40px;
-	color: #fff	;
-	background-color: red;
-	margin: 0 auto;
-	text-decoration: underline ;	
-}
-a img.instagram{
-	width: 10%;
-	display: block;
-	color: #fff;
-	background-color: #fff;
-	filter: invert(1);
-}
 @keyframes bounceIn {
 	0%{
 		transform: scale(0.2);
